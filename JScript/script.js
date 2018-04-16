@@ -1,4 +1,4 @@
-   <script>
+
 	  var map;
 	  var marker;
 	  var current;
@@ -44,8 +44,3 @@
 			document.getElementById("demo").innerHTML = null;
 			}
 		}
-		
-    </script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBcGgYMjWSomCfJHGkYRKGw7J_IswjAPrI&callback=initMap">
-    </script>
